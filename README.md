@@ -1,2 +1,2 @@
 # PhyGenBench
-[PhyGenBench_page](https://phygenbench321.github.io/)
+[PhyGenBench_page](https://phygenbench2024.github.io/)
